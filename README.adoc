@@ -1,0 +1,3 @@
+= DeskOS: deskos-multimedia-codecs RPM
+
+This is the _deskos-multimedia-codecs_ RPM package for the *DeskOS* operating system.
